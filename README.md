@@ -1,4 +1,6 @@
 📊 Análisis de Datos de Ventas - TPI Data Analytics
+
+
 📋 Descripción del Proyecto
 Análisis comprehensivo de datos de ventas que incluye procesamiento, limpieza y análisis de datasets comerciales para identificar patrones, productos de alto rendimiento y efectividad de campañas de marketing.
 
